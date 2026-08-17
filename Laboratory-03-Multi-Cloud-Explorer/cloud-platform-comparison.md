@@ -1,6 +1,8 @@
 # Cloud Platform Comparison
 
-## Provider Comparison Overview
+## Checkpoint 3: Major Cloud Platforms Comparison
+
+### Provider Comparison Overview
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
@@ -14,16 +16,28 @@
 
 ---
 
-## Evaluation Questions
+### Evaluation Questions
 
-### 1. Which cloud provider offers the broadest range of services?
+#### 1. Which cloud provider offers the broadest range of services?
 Amazon Web Services (AWS) offers the broadest range of services in the market today. With over 200 fully featured services ranging from core compute and storage to specialized robotics and satellite connectivity, AWS provides the most expansive cloud ecosystem available.
 
-### 2. Which provider best integrates with Microsoft technologies?
+#### 2. Which provider best integrates with Microsoft technologies?
 Microsoft Azure provides the most seamless integration with Microsoft technologies. Organizations leveraging Windows Server, Microsoft 365, Active Directory, and .NET frameworks can easily extend their workloads into Azure with minimal setup overhead and optimized licensing costs.
 
-### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
+#### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
 Google Cloud Platform (GCP) excels in Artificial Intelligence and Kubernetes management. As the original creator of Kubernetes and the developer of major AI frameworks like TensorFlow, Google provides industry-leading tools such as Google Kubernetes Engine (GKE) and Vertex AI for modern, intelligent workloads.
 
-### 4. Which cloud platform would you personally choose and why?
+#### 4. Which cloud platform would you personally choose and why?
 I would personally choose Google Cloud Platform (GCP) because of its developer-friendly workflow, clean management workspace, and native optimization for modern containerized architectures. Its leading-edge performance in data analytics and AI tools makes it especially ideal for modern software engineering projects.
+
+---
+
+## Checkpoint 5: Match the Cloud Services
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
