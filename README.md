@@ -2,6 +2,7 @@
 
 **Student Name:** Vicel Mae D. Peralta  
 **Course & Section:** BSIT - CCM101  
+**Instructor:** Jenkielyn Torres
 
 ---
 
