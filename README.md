@@ -1,8 +1,9 @@
 # CCM101 - Cloud Computing Portfolio
 
 **Student Name:** Vicel Mae D. Peralta  
-**Course & Section:** BSIT - CCM101  
+**Course & Section:** BSIT 4-H  
 **Instructor:** Jenkielyn Torres
+**School Year:** 2026-2027
 
 ---
 
